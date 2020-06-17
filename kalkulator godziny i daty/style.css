@@ -1,0 +1,45 @@
+*{
+    font-size: 30px;
+}
+body{
+    background-color: mediumvioletred;
+}
+
+.data{
+    border-radius: 10px;
+    border-color: aquamarine;
+    background-color: yellowgreen;
+    
+}
+.godzina{
+    border-radius: 10px;
+    border-color: aquamarine;
+    background-color: red;
+    
+}
+.btn1{
+    border-radius: 10px;
+    border-color: aquamarine;
+    background-color: blueviolet;
+    
+}
+.four{
+    background-color: aquamarine;
+    width: 10%;
+}
+.czas{
+    border-radius: 10px;
+    border-color: aquamarine;
+    background-color: pink;
+    
+}
+.btn2{
+    border-radius: 10px;
+    border-color: aquamarine;
+    background-color: orange;
+    
+}
+.seven{
+    background-color: aquamarine;
+    width: 10%;
+}

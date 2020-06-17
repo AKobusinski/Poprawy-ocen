@@ -1,0 +1,45 @@
+
+body{
+    
+    background-color: black;
+}
+h2{
+    color: crimson;
+    background-color: mediumturquoise;
+    width: 15%;
+    font-size: 30px;
+}
+input{
+    background-color: violet;
+}
+button{
+    background-color: yellow;
+}
+span{
+    background-color: lawngreen;
+    
+}
+p{
+    background-color: lightcoral;
+    width: 10%;
+    font-size: 30px;
+}
+label{
+    background-color: mediumseagreen;
+    width: 10%;
+    font-size: 30px;
+}
+.ocena{
+    background-color: cadetblue;
+}
+.srednia{
+    background-color: lightgreen;
+    height: 50%;
+    padding: 10%;
+}
+.Trójkąt{
+    background-color: lightskyblue;
+    height: 50%;
+    padding: 10%;
+}
+
